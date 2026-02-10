@@ -43,11 +43,7 @@ In this project, I practiced a modern "fluid design" approach. Instead of using 
 }
 I also used Vue 3 with a component-based architecture to separate data from the UI.
 
-### Continued development
 
-## Author
-
-- Frontend Mentor - [@gsnezana7](https://www.frontendmentor.io)
 
 
 
