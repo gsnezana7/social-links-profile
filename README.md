@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/gsnezana7/social-links-profile)
+- Live Site URL: [Add live site URL here](https://gsnezana-social-links.netlify.app/)
 
 ## My process
 
@@ -47,7 +47,7 @@ I also used Vue 3 with a component-based architecture to separate data from the 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@gsnezana7](https://www.frontendmentor.io)
 
 
 
