@@ -3,6 +3,7 @@
 import UserCard from './components/UserCard.vue'
 import Footer from './components/footer.vue'
 import avatarImage from './assets/images/avatar-jessica.jpeg'
+import { createApp } from 'vue';
 
 const userData = {
   name: 'Jessica Randall',
