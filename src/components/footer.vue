@@ -1,10 +1,10 @@
 <template>
-    <footer class="attribution">
+  <footer class="attribution">
     <small>
       <span class="attribution__text">
         Challenge by
       </span>
-      <a  href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor.</a>
+      <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor.</a>
       <span class="attribution__text">
         Coded by
       </span>
@@ -20,6 +20,6 @@
 }
 
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: hsl(228.12deg 41.22% 70.56%);
 }
 </style>
